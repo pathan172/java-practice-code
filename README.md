@@ -1,0 +1,1 @@
+Its just a practice code of java where we take a input form user and also direct put the value in the first and second code.And the Third code is to accepts the 10 elments in an array and also find out the average and total sum.
