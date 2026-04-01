@@ -11,10 +11,10 @@ This repository contains my daily Java practice code as part of my placement pre
 Each day I upload code based on topics:
 
 Day-1 → Strings  
-Day-2 → If-Else  
-Day-3 → Loops  
-Day-4 → Arrays  
-Day-5 → Strings  
+Day-2 →   
+Day-3 →   
+Day-4 → 
+Day-5 →  
 ...
 
 ## 🛠️ Topics Covered
