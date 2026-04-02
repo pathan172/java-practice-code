@@ -10,8 +10,8 @@ This repository contains my daily Java practice code as part of my placement pre
 ## 📂 Structure
 Each day I upload code based on topics:
 
-Day-1 → Strings  
-Day-2 →   
+Day-1 →  Basic understanding of Strings  
+Day-2 → basic uderstanding of Array & casting method  
 Day-3 →   
 Day-4 → 
 Day-5 →  
