@@ -26,11 +26,7 @@ Day-5 →
 - Functions
 - Object-Oriented Programming (OOP)
 - Data Structures (Upcoming 🚀)
-
-## 📈 Progress
-- Day 1 ✅ (Strings)
-- Day 2 ⏳
-- Day 3 ⏳
+  
 
 ## 🎯 Target
 - Become strong in Java & DSA
