@@ -8,14 +8,8 @@ This repository contains my daily Java practice code as part of my placement pre
 - Build consistency (GitHub streak 🔥)
 
 ## 📂 Structure
-Each day I upload code based on topics:
-
-Day-1 →  Basic understanding of Strings  
-Day-2 → basic uderstanding of Array & casting method  
-Day-3 →   
-Day-4 → 
-Day-5 →  
-...
+Each day  upload code based on topic ..
+- 
 
 ## 🛠️ Topics Covered
 - Java Basics
